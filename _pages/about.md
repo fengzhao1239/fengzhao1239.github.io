@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am a fifth-year Ph.D. candidate in Civil Engineering at Tongji University, China, advised by Prof.[Fengshou Zhang](https://scholar.google.com/citations?user=LqWUb3sAAAAJ&hl). I am currently a research scholar in the Sibley School of Mechanical and Aerospace Engineering at Cornell University, working with Prof.[Jian-Xun Wang](https://scholar.google.com/citations?user=1cXHUD4AAAAJ&hl). I have actively collaborated with leading researchers, including Prof.[Xianda Shen](https://scholar.google.com/citations?user=oxPx7qQAAAAJ&hl) from Tongji University, and Prof.[Bicheng Yan](https://scholar.google.com/citations?user=5ZbNJLYAAAAJ&hl) from King Abdullah University of Science and Technology (KAUST).
+
+My research lies at the intersection of artificial intelligence and geoscience, advancing the energy transition to a sustainable, carbon-neutral future. I am interested in developing **AI-enabled computational frameworks** for subsurface energy systems, with applications to *geological carbon sequestration*, *shale gas exploitation*, and beyond.
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
@@ -85,7 +87,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-- [CoSwinNet: a conditional Swin Transformer multimodal surrogate model for subsurface multiphase flow](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=u_cUQswAAAAJ&citation_for_view=u_cUQswAAAAJ:hqOjcs7Dif8C). **Zhao Feng**, Zeeshan Tariq\*, Zhong Zhang, Peilin Zhao, Renyu Zhao, Wenhao Wang, Xinwo Huang, Bicheng Yan, Xianda Shen\*, Fengshou Zhang.
+- [CoSwinNet: a conditional Swin Transformer multimodal surrogate model for subsurface multiphase flow](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=u_cUQswAAAAJ&citation_for_view=u_cUQswAAAAJ:hqOjcs7Dif8C). **Zhao Feng**, Zeeshan Tariq\*, Zhong Zhang, Peilin Zhao, Renyu Zhao, Wenhao Wang, Xinwo Huang, Bicheng Yan, Xianda Shen\*, Fengshou Zhang. *Under Review*. [![GitHub](https://img.shields.io/badge/GitHub-CoSwinNet-blue?logo=github)](https://github.com/fengzhao1239/CoSwinNet)
 
 - [CO<sub>2</sub> sequestration and mineralization in basalts: Insights from a deep learning-based surrogate model](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=u_cUQswAAAAJ&citation_for_view=u_cUQswAAAAJ:hqOjcs7Dif8C). Weiquan Ouyang, **Zhao Feng**, Fengshou Zhang\*, Zhao Xia, Xianda Shen. ***Engineering Geology***.
 
@@ -107,31 +109,43 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [TransUNet: Accelerating Multiphase Flow Prediction in Geological Carbon Storage Systems](https://onepetro.org/SPEADIP/proceedings/24ADIP/24ADIP/D021S065R002/585839). Zeeshan Tariq, **Zhao Feng**, Hussein Hoteit, Moataz Abualsaud, Xupeng He, Muhammad AlMajid, Shuyu Sun, Bicheng Yan. ***Abu Dhabi International Petroleum Exhibition and Conference***.
+- [TransUNet: Accelerating Multiphase Flow Prediction in Geological Carbon Storage Systems](https://onepetro.org/SPEADIP/proceedings/24ADIP/24ADIP/D021S065R002/585839). Zeeshan Tariq, **Zhao Feng**, Hussein Hoteit, Moataz Abualsaud, Xupeng He, Muhammad AlMajid, Shuyu Sun, Bicheng Yan. ***Abu Dhabi International Petroleum Exhibition and Conference***. [![GitHub](https://img.shields.io/badge/GitHub-TransUNet-blue?logo=github)](https://github.com/fengzhao1239/TransUNet-for-CCS)
 
 
 ## 2023
 
-- [A Data-Driven Model for the Prediction of Stimulated Reservoir Volume (SRV) Evolution During Hydraulic Fracturing](https://onepetro.org/isrmcongress/proceedings/CONGRESS23/CONGRESS23/ISRM-15CONGRESS-2023-361/540138). **Zhao Feng**, Fengshou Zhang, Xianda Shen, Bichen Yan, Zhaowei Chen. ***ISRM Congress***.
+- [A Data-Driven Model for the Prediction of Stimulated Reservoir Volume (SRV) Evolution During Hydraulic Fracturing](https://onepetro.org/isrmcongress/proceedings/CONGRESS23/CONGRESS23/ISRM-15CONGRESS-2023-361/540138). **Zhao Feng**, Fengshou Zhang, Xianda Shen, Bichen Yan, Zhaowei Chen. ***ISRM Congress***. [![GitHub](https://img.shields.io/badge/GitHub-Microseismicity--Prediction-blue?logo=github)](https://github.com/fengzhao1239/Microseismicity-Prediction)
 
 
 
 
+# 📖 Education
+- *2021.09 - Now*, Ph.D. in Civil Engineering, Tongji University. 
+- *2017.09 - 2021.06*, B.S. in Mining Engineering, China University of Mining and Technology.
+
+
+# 💼 Work Experience
+- *2025.08 - Now*, Research Scholar, Cornell University, USA.
+- *2025.01 - 2025.07*, Research Scholar, University of Notre Dame, USA.
+- *2023.09 - 2023.12*, Research Scholar, King Abdullah University of Science and Technology, Saudi Arabia.
+- *2019.02 - 2019.06*, Visiting Student, Technical University of Leoben, Austria.
 
 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Lingjun Talent Fellowship, Tongji University. 
+- *2021* Outstanding Undergraduate, China University of Mining and Technology.
+- *2020* Zhang Guangshi Scholarship, China University of Mining and Technology.
+- *2017,2019* First-class Scholarship, China University of Mining and Technology.
+- *2018* Chinese Government Scholarship, China Scholarship Council.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💬 Talks
+- *2024.06*, "An encoder-decoder ConvLSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Carbon Capture, Utilization and Storage (CCUS) Conference.
+- *2023.11*, "A deep-learning-based Convolutional-LSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Geomechanics Symposium.
+
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
