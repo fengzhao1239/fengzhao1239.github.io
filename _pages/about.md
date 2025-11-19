@@ -89,7 +89,7 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 
 - [CoSwinNet: a conditional Swin Transformer multimodal surrogate model for subsurface multiphase flow](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=u_cUQswAAAAJ&citation_for_view=u_cUQswAAAAJ:hqOjcs7Dif8C). **Zhao Feng**, Zeeshan Tariq\*, Zhong Zhang, Peilin Zhao, Renyu Zhao, Wenhao Wang, Xinwo Huang, Bicheng Yan, Xianda Shen\*, Fengshou Zhang. *Under Review*. [![GitHub](https://img.shields.io/badge/GitHub-CoSwinNet-blue?logo=github)](https://github.com/fengzhao1239/CoSwinNet)
 
-- [CO<sub>2</sub> sequestration and mineralization in basalts: Insights from a deep learning-based surrogate model](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=u_cUQswAAAAJ&citation_for_view=u_cUQswAAAAJ:hqOjcs7Dif8C). Weiquan Ouyang, **Zhao Feng**, Fengshou Zhang\*, Zhao Xia, Xianda Shen. ***Engineering Geology***.
+- [CO<sub>2</sub> sequestration and mineralization in basalts: Insights from a deep learning-based surrogate model](https://www.sciencedirect.com/science/article/pii/S0013795225002698). Weiquan Ouyang, **Zhao Feng**, Fengshou Zhang\*, Zhao Xia, Xianda Shen. ***Engineering Geology***.
 
 
 
