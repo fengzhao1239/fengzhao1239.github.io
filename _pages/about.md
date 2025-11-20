@@ -122,7 +122,7 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 
 **Zhao Feng**, Fengshou Zhang, Xianda Shen, Bichen Yan, Zhaowei Chen
 
-**Code**: [![GitHub](https://img.shields.io/badge/GitHub-Microseismicity--Prediction-blue?logo=github)](https://github.com/fengzhao1239/Microseismicity-Prediction)
+**Code**: [![GitHub](https://img.shields.io/badge/GitHub-Microseismicity--Prediction-blue?logo=github)](https://github.com/fengzhao1239/Microseismicity-Prediction) \| **Slides**: [[slides]](files/lstm_ms.pdf)
 - A data-driven model is developed to use field monitored hydraulic fracturing parameters and microseismicity to predict the stimulated reservoir volume (SRV) ahead of time.
 - We use a voxelized method to calculate the SRV and a LSTM network to handle the time sequence regression task.
 </div>
