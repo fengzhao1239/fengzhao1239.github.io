@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year Ph.D. candidate in Civil Engineering at Tongji University, China, advised by Prof.[Fengshou Zhang](https://scholar.google.com/citations?user=LqWUb3sAAAAJ&hl). I am currently a research scholar in the Sibley School of Mechanical and Aerospace Engineering at Cornell University, working with Prof.[Jian-Xun Wang](https://scholar.google.com/citations?user=1cXHUD4AAAAJ&hl). I have actively collaborated with leading researchers, including Prof.[Xianda Shen](https://scholar.google.com/citations?user=oxPx7qQAAAAJ&hl) from Tongji University, and Prof.[Bicheng Yan](https://scholar.google.com/citations?user=5ZbNJLYAAAAJ&hl) from King Abdullah University of Science and Technology (KAUST).
+I am a fifth-year Ph.D. candidate in Civil Engineering at Tongji University, China, advised by Prof.[Fengshou Zhang](https://scholar.google.com/citations?user=LqWUb3sAAAAJ&hl). I am currently a research scholar in the Sibley School of Mechanical and Aerospace Engineering at Cornell University, working with Prof.[Jian-Xun Wang](https://scholar.google.com/citations?user=1cXHUD4AAAAJ&hl). I have been actively collaborating with leading researchers, including Prof.[Xianda Shen](https://scholar.google.com/citations?user=oxPx7qQAAAAJ&hl) from Tongji University, and Prof.[Bicheng Yan](https://scholar.google.com/citations?user=5ZbNJLYAAAAJ&hl) from King Abdullah University of Science and Technology (KAUST).
 
 My research lies at the intersection of artificial intelligence and geoscience, advancing the energy transition to a sustainable, carbon-neutral future. I am interested in developing **AI-enabled computational frameworks** for subsurface energy systems, with applications to *geological carbon sequestration*, *shale gas exploitation*, and beyond. My CV is [here](files/ZF_CV.pdf).
 
@@ -52,8 +52,8 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 **Zhao Feng**, Xin-Yang Liu, Meet Hemant Parikh, Junyi Guo, Pan Du, Bicheng Yan\*, Jian-Xun Wang\*
 
 **Code**: [![GitHub](https://img.shields.io/badge/GitHub-CoNFiLD--geo-blue?logo=github)](https://github.com/fengzhao1239/CoNFiLD-geo)
-- CoNFiLD-geo combines conditional neural field encoding with Bayesian conditional latent-space diffusion models, enabling *zero-shot* conditional generation of geomodels and reservoir responses across complex geometries and grid structures.
-- The model is pretrained unconditionally in a self-supervised manner, followed by a Bayesian posterior sampling process, allowing for data assimilation for unseen/unobserved states without task-specific retraining. 
+- Our proposed CoNFiLD-geo combines conditional neural field encoding with Bayesian conditional latent-space diffusion, enabling *zero-shot* conditional generation of geomodels and reservoir responses across complex geometries and grid structures.
+- The model is pretrained unconditionally in a self-supervised manner, followed by a Bayesian posterior sampling process, allowing for data assimilation for unseen states without task-specific retraining. 
 </div>
 </div>
 
@@ -114,7 +114,19 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 
 ## 2023
 
-- [A Data-Driven Model for the Prediction of Stimulated Reservoir Volume (SRV) Evolution During Hydraulic Fracturing](https://onepetro.org/isrmcongress/proceedings/CONGRESS23/CONGRESS23/ISRM-15CONGRESS-2023-361/540138). **Zhao Feng**, Fengshou Zhang, Xianda Shen, Bichen Yan, Zhaowei Chen. ***ISRM Congress***. [![GitHub](https://img.shields.io/badge/GitHub-Microseismicity--Prediction-blue?logo=github)](https://github.com/fengzhao1239/Microseismicity-Prediction)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISRM Congress</div><img src='images/hf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Data-Driven Model for the Prediction of Stimulated Reservoir Volume (SRV) Evolution During Hydraulic Fracturing](https://onepetro.org/isrmcongress/proceedings/CONGRESS23/CONGRESS23/ISRM-15CONGRESS-2023-361/540138)
+
+**Zhao Feng**, Fengshou Zhang, Xianda Shen, Bichen Yan, Zhaowei Chen
+
+**Code**:[![GitHub](https://img.shields.io/badge/GitHub-Microseismicity--Prediction-blue?logo=github)](https://github.com/fengzhao1239/Microseismicity-Prediction)
+- A data-driven model is developed to use field monitored hydraulic fracturing parameters and microseismicity to predict the stimulated reservoir volume (SRV) ahead of time.
+- We use a voxelized method to calculate the SRV and a LSTM network to handle the time sequence regression task.
+</div>
+</div>
 
 
 
