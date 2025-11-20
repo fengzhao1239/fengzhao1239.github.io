@@ -115,7 +115,7 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 ## 2023
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISRM Congress</div><img src='images/hf.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISRM Congress</div><img src='images/hf.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Data-Driven Model for the Prediction of Stimulated Reservoir Volume (SRV) Evolution During Hydraulic Fracturing](https://onepetro.org/isrmcongress/proceedings/CONGRESS23/CONGRESS23/ISRM-15CONGRESS-2023-361/540138)
