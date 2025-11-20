@@ -115,7 +115,7 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 ## 2023
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISRM Congress</div><img src='images/hf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISRM Congress</div><img src='images/hf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Data-Driven Model for the Prediction of Stimulated Reservoir Volume (SRV) Evolution During Hydraulic Fracturing](https://onepetro.org/isrmcongress/proceedings/CONGRESS23/CONGRESS23/ISRM-15CONGRESS-2023-361/540138)
@@ -156,8 +156,8 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 
 
 # 💬 Talks
-- *2024.06*, "An encoder-decoder ConvLSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Carbon Capture, Utilization and Storage (CCUS) Conference. [Slides](files/ccus_conference.pdf).
-- *2023.11*, "A deep-learning-based Convolutional-LSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Geomechanics Symposium. [Slides](files/igs_conference.pdf)
+- *2024.06*, "An encoder-decoder ConvLSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Carbon Capture, Utilization and Storage (CCUS) Conference. [[Slides]](files/ccus_conference.pdf).
+- *2023.11*, "A deep-learning-based Convolutional-LSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Geomechanics Symposium. [[Slides]](files/igs_conference.pdf)
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
