@@ -115,14 +115,14 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 ## 2023
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISRM Congress</div><img src='images/hf.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISRM Congress</div><img src='images/hf.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Data-Driven Model for the Prediction of Stimulated Reservoir Volume (SRV) Evolution During Hydraulic Fracturing](https://onepetro.org/isrmcongress/proceedings/CONGRESS23/CONGRESS23/ISRM-15CONGRESS-2023-361/540138)
 
 **Zhao Feng**, Fengshou Zhang, Xianda Shen, Bichen Yan, Zhaowei Chen
 
-**Code**:[![GitHub](https://img.shields.io/badge/GitHub-Microseismicity--Prediction-blue?logo=github)](https://github.com/fengzhao1239/Microseismicity-Prediction)
+**Code**: [![GitHub](https://img.shields.io/badge/GitHub-Microseismicity--Prediction-blue?logo=github)](https://github.com/fengzhao1239/Microseismicity-Prediction)
 - A data-driven model is developed to use field monitored hydraulic fracturing parameters and microseismicity to predict the stimulated reservoir volume (SRV) ahead of time.
 - We use a voxelized method to calculate the SRV and a LSTM network to handle the time sequence regression task.
 </div>
