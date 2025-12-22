@@ -87,7 +87,7 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 </div>
 
 
-- [CoSwinNet: a conditional Swin Transformer multimodal surrogate model for subsurface multiphase flow](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=u_cUQswAAAAJ&citation_for_view=u_cUQswAAAAJ:hqOjcs7Dif8C). **Zhao Feng**, Zeeshan Tariq\*, Zhong Zhang, Peilin Zhao, Renyu Zhao, Wenhao Wang, Xinwo Huang, Bicheng Yan, Xianda Shen\*, Fengshou Zhang. *Under Review*. [![GitHub](https://img.shields.io/badge/GitHub-CoSwinNet-blue?logo=github)](https://github.com/fengzhao1239/CoSwinNet)
+- [CoSwinNet: a conditional Swin Transformer multimodal surrogate model for subsurface multiphase flow](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=u_cUQswAAAAJ&citation_for_view=u_cUQswAAAAJ:hqOjcs7Dif8C). **Zhao Feng**, Zeeshan Tariq\*, Zhong Zhang, Peilin Zhao, Renyu Zhao, Wenhao Wang, Xinwo Huang, Bicheng Yan, Xianda Shen\*, Fengshou Zhang. ***Fuel***. [![GitHub](https://img.shields.io/badge/GitHub-CoSwinNet-blue?logo=github)](https://github.com/fengzhao1239/CoSwinNet)
 
 - [CO<sub>2</sub> sequestration and mineralization in basalts: Insights from a deep learning-based surrogate model](https://www.sciencedirect.com/science/article/pii/S0013795225002698). Weiquan Ouyang, **Zhao Feng**, Fengshou Zhang\*, Zhao Xia, Xianda Shen. ***Engineering Geology***.
 
@@ -156,6 +156,7 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 
 
 # 💬 Talks
+- *2025.12*, "SURGIN: SURrogate–guided Generative INversion for Geological Carbon Sequestration", AGU Annual Meeting. [[Poster]](files/agu25_poster.pdf).
 - *2024.06*, "An encoder-decoder ConvLSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Carbon Capture, Utilization and Storage (CCUS) Conference. [[Slides]](files/ccus_conference.pdf).
 - *2023.11*, "A deep-learning-based Convolutional-LSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Geomechanics Symposium. [[Slides]](files/igs_conference.pdf)
 
