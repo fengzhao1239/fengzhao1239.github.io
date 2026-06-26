@@ -156,11 +156,11 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 
 
 # 💬 Talks and Posters
-- *2026.6*, "Learning spatiotemporal dynamics using pretrained large language foundation models", USNC-TAM. [Talk]
-- *2026.6*, "Generative Latent Diffusion Model for Inverse Modeling and Uncertainty Analysis in Geological Carbon Sequestration", MIT ERL Meeting. [Poster]
-- *2025.12*, "SURGIN: SURrogate–guided Generative INversion for Geological Carbon Sequestration", AGU Annual Meeting. [[Poster]](files/agu25_poster.pdf).
-- *2024.06*, "An encoder-decoder ConvLSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Carbon Capture, Utilization and Storage (CCUS) Conference. [[Talk]](files/ccus_conference.pdf).
-- *2023.11*, "A deep-learning-based Convolutional-LSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Geomechanics Symposium. [[Talk]](files/igs_conference.pdf)
+- *2026.6*, "Learning spatiotemporal dynamics using pretrained large language foundation models", USNC-TAM @ Pasadena. [Talk]
+- *2026.6*, "Generative Latent Diffusion Model for Inverse Modeling and Uncertainty Analysis in Geological Carbon Sequestration", MIT ERL Meeting @ Cambridge. [Poster]
+- *2025.12*, "SURGIN: SURrogate–guided Generative INversion for Geological Carbon Sequestration", AGU Annual Meeting @ New Orleans. [[Poster]](files/agu25_poster.pdf).
+- *2024.06*, "An encoder-decoder ConvLSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Carbon Capture, Utilization and Storage (CCUS) Conference @ Beijing. [[Talk]](files/ccus_conference.pdf).
+- *2023.11*, "A deep-learning-based Convolutional-LSTM surrogate model for simulating geological CO<sub>2</sub> sequestration with dynamic well controls", International Geomechanics Symposium @ Al Khobar. [[Talk]](files/igs_conference.pdf)
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
