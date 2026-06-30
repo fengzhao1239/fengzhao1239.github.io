@@ -42,6 +42,10 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 </div>
 </div> -->
 
+## 2026
+
+- [From simulator to surrogate: GANs for spatiotemporal modeling of subsurface flow in porous media](https://link.springer.com/article/10.1007/s10596-026-10440-7). Zeeshan Tariq\*, **Zhao Feng**, Bicheng Yan, Hussein Hoteit. ***Computational Geosciences***.
+
 ## 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/confild.png' alt="sym" width="100%"></div></div>
@@ -111,6 +115,8 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 
 - [TransUNet: Accelerating Multiphase Flow Prediction in Geological Carbon Storage Systems](https://onepetro.org/SPEADIP/proceedings/24ADIP/24ADIP/D021S065R002/585839). Zeeshan Tariq, **Zhao Feng**, Hussein Hoteit, Moataz Abualsaud, Xupeng He, Muhammad AlMajid, Shuyu Sun, Bicheng Yan. ***Abu Dhabi International Petroleum Exhibition and Conference***. [![GitHub](https://img.shields.io/badge/GitHub-TransUNet-blue?logo=github)](https://github.com/fengzhao1239/TransUNet-for-CCS)
 
+- [Transformer-Based Surrogate Model for the Optimization of Geological Carbon Sequestration](https://link.springer.com/chapter/10.1007/978-981-95-4263-5_7). **Zhao Feng**, Weiquan Ouyang, Zeeshan Tariq, Zhilei Han, Xianda Shen, Bicheng Yan, Fengshou Zhang. ***Asian Rock Mechanics Symposium***.
+
 
 ## 2023
 
@@ -146,6 +152,7 @@ My research lies at the intersection of artificial intelligence and geoscience, 
 
 
 # 🎖 Honors and Awards
+- *2026* Best Paper Award, American Rock Mechanics Association.
 - *2025* Lingjun Talent Fellowship, Tongji University. 
 - *2021* Outstanding Undergraduate, China University of Mining and Technology.
 - *2020* Zhang Guangshi Scholarship, China University of Mining and Technology.
